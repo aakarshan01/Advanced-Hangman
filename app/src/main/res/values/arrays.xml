@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>CANBERRA</item>
+        <item>JERUSALEM</item>
+        <item>ISLAMABAD</item>
+        <item>WELLINGTON</item>
+        <item>AMSTERDAM</item>
+
+        <item>NEWTON</item>
+        <item>EINSTEIN</item>
+        <item>FARADAY</item>
+        <item>ARCHIMEDES</item>
+        <item>C.V.RAMAN</item>
+
+        <item>UBUNTU</item>
+        <item>FEDORA</item>
+        <item>DEBIAN</item>
+        <item>GENTOO</item>
+        <item>KALI</item>
+
+        <item>MACBETH</item>
+        <item>HAMLET</item>
+        <item>DRACULA</item>
+        <item>OTHELLO</item>
+        <item>MOCKINGJAY</item>
+
+        <item>KENNEDY</item>
+        <item>LINCOLN</item>
+        <item>ROOSEVELT</item>
+        <item>CLEVELAND</item>
+        <item>OBAMA</item>
+
+    </string-array>
+</resources>
